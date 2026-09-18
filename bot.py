@@ -30,7 +30,7 @@ from telegram.ext import (
 # ═══════════════════════════════════════════════════════════════
 MAIN_BOT_TOKEN = "8634510247:AAGtVty13i6hI3vTYGZd3SAxmjZlyRE4HyU"
 MAIN_ADMIN_ID = 8868615222
-MY_SITE = "https://coruscating-sfogliatella-aaf449.netlify.app/home.html"
+MY_SITE = "https://elaborate-sprite-8249fc.netlify.app"
 BOT_NAME = "رزان"
 DEFAULT_POINTS = 10
 COST_PER_BOT = 5
@@ -59,7 +59,7 @@ def load_json(path, default=None):
                 return json.load(f)
         except Exception:
             return default if default is not None else {}
-    return default if default is not None else {}
+    returnturn default if default is not None else {}
 
 
 def save_json(path, data):
