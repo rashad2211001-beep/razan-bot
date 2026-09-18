@@ -30,7 +30,7 @@ from telegram.ext import (
 # ═══════════════════════════════════════════════════════════════
 MAIN_BOT_TOKEN = "8634510247:AAGtVty13i6hI3vTYGZd3SAxmjZlyRE4HyU"
 MAIN_ADMIN_ID = 8868615222
-MY_SITE = "https://elaborate-sprite-8249fc.netlify.app"
+MY_SITE = "https://elaborate-sprite-8249fc.netlify.app/home.html"
 BOT_NAME = "رزان"
 DEFAULT_POINTS = 10
 COST_PER_BOT = 5
